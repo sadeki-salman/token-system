@@ -1,0 +1,16 @@
+ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul li{
+    list-style: none;
+    margin-left: 10px;
+    border: 1px solid #C3C3C3;
+    padding: 2px 10px;
+}
+
+ul li a{
+    text-decoration: none;
+    margin-left: 10px;
+    color: rgb(163, 41, 41);
+}
